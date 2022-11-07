@@ -3,22 +3,14 @@
     {
       "id": 1,
       "name": "Sam Fonseca",
-      "email": "samuel@gmail.com"
+      "email": "samuel@gmail.com",
+      "data": ""
     },
     {
-      "id": 2,
-      "name": "Jeniffer",
-      "email": "jeniferu@gmail.com"
-    },
-    {
-      "name": "Davi",
-      "email": "davi2@gmail.com",
+      "name": "teste123",
+      "email": "teste@game.com",
+      "date": "0199-01-04",
       "id": 3
-    },
-    {
-      "name": "teste",
-      "email": "teste@gmail.com",
-      "id": 4
     }
   ]
 }
