@@ -12,6 +12,5 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "0.13.0"
-  },
-  "proxy": "https://crud-backend-exemple.herokuapp.com"
+  }
 }
